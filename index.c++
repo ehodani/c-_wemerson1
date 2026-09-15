@@ -17,5 +17,5 @@ int main () {
     cout << "nota: " << aluno1.nota << endl;
 
 
-return 0;.
+return 0;
 }
