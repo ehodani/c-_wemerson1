@@ -11,7 +11,7 @@ void receberDano(int dano) {
 };
 int main (){
 Personagem heroi;
-heroi.nome= "Andre, o espinheiro maldito";
+heroi.nome= "amde, o maldito espinheiro
 heroi.vida=200;
 
 cout << heroi.nome << "comeca com " << heroi.vida << "de vida." << endl;
